@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react-anshu",
+  "version": "1.0.0",
+  "description": "Gitanshu Practice Namaste React",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behalgitanshu/namaste-react-practice.git"
+  },
+  "author": "Gitanshu Behal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behalgitanshu/namaste-react-practice/issues"
+  },
+  "homepage": "https://github.com/behalgitanshu/namaste-react-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
