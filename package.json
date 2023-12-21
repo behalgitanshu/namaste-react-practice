@@ -2,7 +2,6 @@
   "name": "namaste-react-anshu",
   "version": "1.0.0",
   "description": "Gitanshu Practice Namaste React",
-  "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +16,11 @@
   },
   "homepage": "https://github.com/behalgitanshu/namaste-react-practice#readme",
   "devDependencies": {
-    "parcel": "^2.10.3"
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
